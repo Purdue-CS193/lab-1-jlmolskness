@@ -1,3 +1,10 @@
+# Jakob Molskness's first CS193 Lab
+* The TAs are pretty great
+* Github classrooms wasn't down
+  for too long, which was nice
+* I made my first commit of the year
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
